@@ -56,4 +56,4 @@ Run the server.
 
 
 # Result:
-
+Thus a website is developed to display details about the places around my house.
